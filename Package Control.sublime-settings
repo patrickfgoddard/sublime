@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"AngularJS",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"DocBlockr",
+		"Drupal",
+		"Drupal Completions",
+		"Drupal Project Autocomplete",
+		"Drupal Snippets",
+		"Grunt",
+		"Grunt Snippets",
+		"HTML Boilerplate",
+		"HTML5",
+		"HtmlTidy",
+		"JSLint",
+		"LoremGibson",
+		"MarkdownEditing",
+		"Package Control",
+		"PHP Completions Kit",
+		"PHP Modern",
+		"PHP-Twig",
+		"Phpcs",
+		"SFTP",
+		"STProjectMaker",
+		"TidyHTML5",
+		"Twig"
+	]
+}
