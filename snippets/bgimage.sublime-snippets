@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+background-image: image-url('icons/.svg');
+background-position: center center;
+background-repeat: no-repeat;
+background-size: 20px auto;
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>bgimage</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
